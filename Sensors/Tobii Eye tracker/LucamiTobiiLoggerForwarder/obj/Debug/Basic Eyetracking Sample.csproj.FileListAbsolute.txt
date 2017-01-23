@@ -1,0 +1,15 @@
+C:\Users\markome.FE-LDOS\Documents\projekti\SocialSignal\Work\Tobii eye tracker\dotNET\BasicEyetracking Sample 1\bin\Debug\tetio.dll
+C:\Users\markome.FE-LDOS\Documents\projekti\SocialSignal\Work\Tobii eye tracker\dotNET\BasicEyetracking Sample 1\bin\Debug\Basic Eyetracking Sample.exe
+C:\Users\markome.FE-LDOS\Documents\projekti\SocialSignal\Work\Tobii eye tracker\dotNET\BasicEyetracking Sample 1\bin\Debug\Basic Eyetracking Sample.pdb
+C:\Users\markome.FE-LDOS\Documents\projekti\SocialSignal\Work\Tobii eye tracker\dotNET\BasicEyetracking Sample 1\bin\Debug\Tobii.EyeTracking.IO.dll
+C:\Users\markome.FE-LDOS\Documents\projekti\SocialSignal\Work\Tobii eye tracker\dotNET\BasicEyetracking Sample 1\obj\Debug\Basic Eyetracking Sample.csprojResolveAssemblyReference.cache
+C:\Users\markome.FE-LDOS\Documents\projekti\SocialSignal\Work\Tobii eye tracker\dotNET\BasicEyetracking Sample 1\obj\Debug\BasicEyetrackingSample.CalibrationForm.resources
+C:\Users\markome.FE-LDOS\Documents\projekti\SocialSignal\Work\Tobii eye tracker\dotNET\BasicEyetracking Sample 1\obj\Debug\BasicEyetrackingSample.CalibrationResultForm.resources
+C:\Users\markome.FE-LDOS\Documents\projekti\SocialSignal\Work\Tobii eye tracker\dotNET\BasicEyetracking Sample 1\obj\Debug\BasicEyetrackingSample.CalibrationResultPanel.resources
+C:\Users\markome.FE-LDOS\Documents\projekti\SocialSignal\Work\Tobii eye tracker\dotNET\BasicEyetracking Sample 1\obj\Debug\BasicEyetrackingSample.FrameRateDialog.resources
+C:\Users\markome.FE-LDOS\Documents\projekti\SocialSignal\Work\Tobii eye tracker\dotNET\BasicEyetracking Sample 1\obj\Debug\BasicEyetrackingSample.MainForm.resources
+C:\Users\markome.FE-LDOS\Documents\projekti\SocialSignal\Work\Tobii eye tracker\dotNET\BasicEyetracking Sample 1\obj\Debug\BasicEyetrackingSample.Properties.Resources.resources
+C:\Users\markome.FE-LDOS\Documents\projekti\SocialSignal\Work\Tobii eye tracker\dotNET\BasicEyetracking Sample 1\obj\Debug\BasicEyetrackingSample.TrackStatusControl.resources
+C:\Users\markome.FE-LDOS\Documents\projekti\SocialSignal\Work\Tobii eye tracker\dotNET\BasicEyetracking Sample 1\obj\Debug\Basic Eyetracking Sample.csproj.GenerateResource.Cache
+C:\Users\markome.FE-LDOS\Documents\projekti\SocialSignal\Work\Tobii eye tracker\dotNET\BasicEyetracking Sample 1\obj\Debug\Basic Eyetracking Sample.exe
+C:\Users\markome.FE-LDOS\Documents\projekti\SocialSignal\Work\Tobii eye tracker\dotNET\BasicEyetracking Sample 1\obj\Debug\Basic Eyetracking Sample.pdb

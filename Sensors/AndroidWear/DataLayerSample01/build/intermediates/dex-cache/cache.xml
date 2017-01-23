@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\markome.FE-LDOS\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.3.0\8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9\socket.io-client-0.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="C:\Users\markome.FE-LDOS\AndroidStudioProjects\DataLayerSample01\Application\build\intermediates\pre-dexed\debug\socket.io-client-0.3.0-81d84328157da90d1c1f7befcd929369189f2e88.jar" />
+    </item>
+    <item
+        jar="C:\Users\markome.FE-LDOS\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.3.1\3ca9d0d53a27ecb88538ed874be417cfa827db5d\engine.io-client-0.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="C:\Users\markome.FE-LDOS\AndroidStudioProjects\DataLayerSample01\Application\build\intermediates\pre-dexed\debug\engine.io-client-0.3.1-d222e6ab8e5199ea55cbec349427491dcbc15910.jar" />
+    </item>
+    <item
+        jar="C:\Users\markome.FE-LDOS\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.0\db2658f013fb163de4a99274c2eb9e17efe535d2\Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="C:\Users\markome.FE-LDOS\AndroidStudioProjects\DataLayerSample01\Application\build\intermediates\pre-dexed\debug\Java-WebSocket-1.3.0-bb9f66bffe8cc5c920e18af9a93b671640affe2e.jar" />
+    </item>
+
+</items>
